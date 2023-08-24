@@ -1,0 +1,15 @@
+body {
+	padding: 20px;
+	background: black;
+	color: white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+hr {
+	border: 1px solid white;
+}
+
+a {
+	color: white;
+	text-decoration:none;
+}
